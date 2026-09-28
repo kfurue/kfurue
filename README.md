@@ -26,3 +26,6 @@ Four Jetpack Compose challenge submissions:
 
 The countdown timer even earned me an official challenge poster and a set of colored pencils. ✏️
   
+## Open source
+
+- [FlutterFire — firebase_auth dependency compatibility fix](https://github.com/firebase/flutterfire/pull/18727)
