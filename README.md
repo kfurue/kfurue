@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm kfurue 👋
 
-<!--
-**kfurue/kfurue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mobile app developer working with Flutter and Android.
+I enjoy experimenting with new technologies and building things for fun.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Milia's Future Diary](https://github.com/kfurue/MiliasFutureDiary)
+
+An interactive 3D AI character built with Unity, Gemini and Google Cloud Text-to-Speech for the Gemini API Developer Competition 2024.
+
+🎬 [Watch the demo](https://www.youtube.com/watch?v=wM4HUUrV7KE)
+
+### [VogueRunnerElysium](https://github.com/kfurue/VogueRunnerElysium)
+
+A Unity runner prototype featuring VRM avatars and character physics.
+
+### Android Dev Challenge 2021
+
+Four Jetpack Compose challenge submissions:
+
+- [Puppy Adoption](https://github.com/kfurue/puppy-adoption-app)
+- [Countdown Timer](https://github.com/kfurue/countdown-timer)
+- [Speed Round APAC](https://github.com/kfurue/speed-round-apac)
+- [Weather App](https://github.com/kfurue/weather-app)
+
+The countdown timer even earned me an official challenge poster and a set of colored pencils. ✏️
+  
