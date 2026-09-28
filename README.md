@@ -9,7 +9,9 @@ I enjoy experimenting with new technologies and building things for fun.
 
 An interactive 3D AI character built with Unity, Gemini and Google Cloud Text-to-Speech for the Gemini API Developer Competition 2024.
 
-🎬 [Watch the demo](https://www.youtube.com/watch?v=wM4HUUrV7KE)
+[![Watch Milia's Future Diary demo on YouTube](https://img.youtube.com/vi/wM4HUUrV7KE/hqdefault.jpg)](https://www.youtube.com/watch?v=wM4HUUrV7KE)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=wM4HUUrV7KE)
 
 ### [VogueRunnerElysium](https://github.com/kfurue/VogueRunnerElysium)
 
